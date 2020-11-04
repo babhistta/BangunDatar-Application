@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BangunDatar</string>
+    <string name="lingkaran">Lingkaran</string>
+    <string name="segitiga">Segitiga</string>
+    <string name="persegi_panjang">Persegi Panjang</string>
+    <string name="hasil">HASIL</string>
+    <string name="luas">Luas :</string>
+    <string name="keliling">Keliling :</string>
+    <string name="menghitung_ulang">Menghitung Ulang</string>
+    <string name="kembali_ke_beranda">Kembali Ke Beranda</string>
+</resources>

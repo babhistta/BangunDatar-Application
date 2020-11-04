@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="roundbtnclr">#FE5670</color>
+    <color name="roundbtnclr1">#F8B000</color>
+    <color name="roundbtnclr2">#3C50E0</color>
+    <color name="roundbtnclr3">#45474B</color>
+    <color name="roundbtnclr4">#FFF9EB</color>
+    <color name="roundbtnclr5">#000000</color>
+</resources>
